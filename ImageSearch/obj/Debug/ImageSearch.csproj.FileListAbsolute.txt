@@ -1,0 +1,15 @@
+D:\ДонНУ\Курсовая работа\ImageSearch\ImageSearch\bin\Debug\ImageSearch.exe.config
+D:\ДонНУ\Курсовая работа\ImageSearch\ImageSearch\bin\Debug\ImageSearch.exe
+D:\ДонНУ\Курсовая работа\ImageSearch\ImageSearch\bin\Debug\ImageSearch.pdb
+D:\ДонНУ\Курсовая работа\ImageSearch\ImageSearch\obj\Debug\ImageSearch.csprojResolveAssemblyReference.cache
+D:\ДонНУ\Курсовая работа\ImageSearch\ImageSearch\obj\Debug\ImageSearch.Properties.Resources.resources
+D:\ДонНУ\Курсовая работа\ImageSearch\ImageSearch\obj\Debug\ImageSearch.csproj.GenerateResource.Cache
+D:\ДонНУ\Курсовая работа\ImageSearch\ImageSearch\obj\Debug\ImageSearch.exe
+D:\ДонНУ\Курсовая работа\ImageSearch\ImageSearch\obj\Debug\ImageSearch.pdb
+D:\ДонНУ\Курсовая работа\ImageSearch\ImageSearch\obj\Debug\ImageSearch.Choose_image.resources
+D:\ДонНУ\Курсовая работа\ImageSearch\ImageSearch\obj\Debug\ImageSearch.Menu.resources
+D:\ДонНУ\Курсовая работа\ImageSearch\ImageSearch\obj\Debug\ImageSearch.Image_calculation.resources
+D:\ДонНУ\Курсовая работа\ImageSearch\ImageSearch\obj\Debug\ImageSearch.Picture_properties.resources
+D:\ДонНУ\Курсовая работа\ImageSearch\ImageSearch\obj\Debug\ImageSearch.Build_gistogramm.resources
+D:\ДонНУ\Курсовая работа\ImageSearch\ImageSearch\obj\Debug\ImageSearch.Existing_diagrams.resources
+D:\ДонНУ\Курсовая работа\ImageSearch\ImageSearch\obj\Debug\ImageSearch.Sort_Images.resources
